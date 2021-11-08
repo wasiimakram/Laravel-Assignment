@@ -1,0 +1,1 @@
+<?php echo $emailText; ?><?php /**PATH D:\2-Projects Data\Laravel + React Assignment\resources\views/mail/mass.blade.php ENDPATH**/ ?>

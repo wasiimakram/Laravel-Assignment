@@ -1,0 +1,9 @@
+.property_sec li:last-child img{width: 130px;}
+
+/*FrontEnd DEV CSS*/
+.agent_no_img{width: 300px; height: 400px;}
+.s_fa_icon{font-size:30px;}
+
+.editProperty .image_simple{display:inline-block;}
+.editProperty .old_property_images{margin-top:40px;}
+

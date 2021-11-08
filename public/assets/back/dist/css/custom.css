@@ -1,0 +1,207 @@
+.topBtnDiv {margin-bottom: 10px;}
+
+
+
+.invalid-feedback{color:red}
+
+
+
+.cBtns{margin-right: 10px;}
+
+
+
+/* Ajax Image show */ 
+
+
+
+.image_simple {position: relative; text-align: right; margin: 0px 0px 20px 20px;display:inline-block;}
+
+
+
+.image_simple2 {position: relative; text-align: right; margin: 0px 0px 20px 20px;display:inline-block;}
+
+
+
+.image_simple img{width: 150px; height: 100px;}
+
+
+
+.top_links {font-size:14px; text-align:left; padding:10px; z-index:99; position:absolute; top:0px; right:0px; color:#fff; font-size:16px;}
+
+
+
+.top_links a{color:#ffffff; background: red; padding:5px 7px; border-radius: 2px;text-decoration: none;}
+
+
+
+.top_links a:hover{color:#ffffff;}
+
+
+
+.input-group .input-group-addon{background-color: #e5e1e1 !important}
+
+
+
+/* Form Validation */
+
+
+
+.box .glyphicon {margin-right:10px;}
+
+
+
+.box .form-group{position: relative;}
+
+
+
+.box .form-control-feedback{color:#f00 !important; top: 24px; right: 6px;}
+
+
+
+.box .form-control-feedback.glyphicon-ok{color:green !important; top: 24px; right: 6px;}
+
+
+
+.box .error.help-block{color:#f00; font-style: normal !important;}
+
+
+
+
+
+
+
+.fa_info_icon{font-size: 16px;color: blue;padding-left: 7px;cursor: pointer;font-weight: bold;}
+
+
+
+.footer2Divs{float: left;}
+
+
+
+
+
+
+
+/* Select2 */
+
+
+
+.select2-container .select2-selection--single{height: 35px !important;}
+
+
+
+.select2-container--default .select2-selection--single{border-radius: 0px !important;}
+
+
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove{color: #e3e1e1!important;margin-right: 5px !important;font-size: 15px !important;}
+
+
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice{background-color: #3c8dbc !important;padding: 3px 8px !important;}
+
+
+
+
+
+
+
+
+
+
+
+.small_help_block{
+
+
+
+    display: block;
+
+
+
+    margin-top: 5px;
+
+
+
+    margin-bottom: 10px;
+
+
+
+    background-color: #d9edf7;
+
+
+
+    border: 1px solid #bce8f1;
+
+
+
+    padding: 5px;
+
+
+
+    font-size: 15px;
+
+
+
+    cursor: help;
+
+
+
+}
+
+
+
+
+
+.login-logo{margin-bottom: 40px !important;}
+.btn.btn-flat:hover{background: #000 !important;}
+.login-box-body .form-control-feedback{color: #feb900 !important;}
+
+
+/*25-11-20*/
+
+.box .error.help-block{position: absolute;
+
+    bottom: -32px;}
+
+
+
+.form-group{margin: 15px 0 !important;}
+
+/*.form-group .form-control{height: 45px !important;}*/
+
+.box .form-control-feedback{top: 31px !important;}
+
+.input-group{position: initial !important;}
+
+.select2-selection{height: 45px !important;}
+
+.select2-container .select2-selection--single{height: 45px !important;}
+
+.select2:before{display: none !important;}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered{line-height: 39px !important;}
+
+.menu{list-style: none;
+
+    z-index: 1000;
+
+    padding-inline-start: 0; box-shadow: -5px 5px 10px rgb(0 0 0 / 14%);}
+
+.menu li{border-bottom: 1px solid #ececec;}
+
+.menu li:lst-child{border:none;}
+
+.menu li a{text-decoration: none; color: #000; display: block; font-size: 14px; padding: 7px 14px;}
+
+.menu li a:hover{background: #3c8dbc; color: #fff;}
+
+.menu li i{padding-right: 10px;}
+
+.menu li a:hover i{color: #fff !important;}
+
+.navbar-nav>.user-menu>.dropdown-menu{width: 200px !important;}
+
+.s_fa_icon{font-size: 35px;}
+
+.faqAction{width: 15%;}
+.seo_help_icon{margin-left: 20px;}
